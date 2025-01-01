@@ -1,6 +1,42 @@
 ROMEN SAMUEL RODIS WABINA
 THESIS PROGRESS REPORT 
 
+**Date:** 31 December 2024  
+
+## Progress Overview  
+
+### [A] CKD Multi-State Model  
+- **Completed Tasks:**  
+  - ✅ Univariate Analysis for continuous variables (per transition)  
+  - ✅ Univariate Analysis for dichotomous variables (per transition)  
+  - ✅ Multi-State wide format  
+  - ✅ Multi-State long format  
+
+- **Validation of Multi-State Long Format:**  
+  - ✅ Verified censored dates (especially for CVD)  
+  - ✅ Verified 25 transitions  
+
+- **Analysis and Model Development:**  
+  - ✅ Imputation manuscript (ready for submission)  
+  - ✅ Univariate Analysis  
+  - ✅ Multivariate Analysis  
+  - ✅ Random Survival Forest  
+  - ✅ Survival Support Vector Machine (SVM)  
+  - ✅ DeepSurv  
+  - ✅ Recalibration Techniques:  
+    - Isotonic Regression  
+    - Platt Scaling  
+    - Conformal Prediction  
+
+---
+
+### [B] Time-Varying Imputation  
+- **Completed Tasks:**  
+  - ✅ Imputation datasets generated for m = 5, 10, 20, 30, 40, 50, 60, 70, 80, 90 (ongoing)  
+
+---
+
+
 #######################################################################################
 Date: 31 December 2024
 Progress Report
