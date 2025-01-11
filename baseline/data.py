@@ -35,7 +35,7 @@ from app_init import replace_covariate_labels, replace_pvalue, get_variables_cox
 import warnings 
 warnings.filterwarnings('ignore')
 
-drive = 'H'
+drive = 'G'
 main_path = drive + ':/Shared drives/CKD_Progression/data/CKD_COHORT_Jan2010_Mar2024_v3.csv'
 data_path = drive + ':/Shared drives/CKD_Progression/data/'
 docs_path = drive + ':/Shared drives/CKD_Progression/docs/'
